@@ -1,0 +1,85 @@
+{
+  "error": false,
+  "levelsData": [
+    {
+      "id": 1,
+      "currentLevel": 1,
+      "totalCompleted": 0,
+      "totalUnlock": 0,
+      "isLocked": false,
+      "totalQuestions": 10
+    },
+    {
+      "id": 2,
+      "currentLevel": 2,
+      "totalCompleted": 0,
+      "totalUnlock": 5,
+      "isLocked": true,
+      "totalQuestions": 10
+    },
+    {
+      "id": 3,
+      "currentLevel": 3,
+      "totalCompleted": 0,
+      "totalUnlock": 10,
+      "isLocked": true,
+      "totalQuestions": 10
+    },
+    {
+      "id": 4,
+      "currentLevel": 4,
+      "totalCompleted": 0,
+      "totalUnlock": 15,
+      "isLocked": true,
+      "totalQuestions": 10
+    },
+    {
+      "id": 5,
+      "currentLevel": 5,
+      "totalCompleted": 0,
+      "totalUnlock": 20,
+      "isLocked": true,
+      "totalQuestions": 10
+    },
+    {
+      "id": 6,
+      "currentLevel": 6,
+      "totalCompleted": 0,
+      "totalUnlock": 25,
+      "isLocked": true,
+      "totalQuestions": 10
+    },
+    {
+      "id": 7,
+      "currentLevel": 7,
+      "totalCompleted": 0,
+      "totalUnlock": 30,
+      "isLocked": true,
+      "totalQuestions": 10
+    },
+    {
+      "id": 8,
+      "currentLevel": 8,
+      "totalCompleted": 0,
+      "totalUnlock": 40,
+      "isLocked": true,
+      "totalQuestions": 10
+    },
+    {
+      "id": 9,
+      "currentLevel": 9,
+      "totalCompleted": 0,
+      "totalUnlock": 50,
+      "isLocked": true,
+      "totalQuestions": 10
+    },
+    {
+      "id": 10,
+      "currentLevel": 10,
+      "totalCompleted": 0,
+      "totalUnlock": 60,
+      "isLocked": true,
+      "totalQuestions": 20
+    }
+  ]
+}
