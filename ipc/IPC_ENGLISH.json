@@ -2,7 +2,8 @@
   {
     "chapter_no": "1",
     "chapter_title": "Introduction",
-    "section_from_to": "Section 1-5",
+    "section_from_to": "1-5",
+    "language": 1,
     "sections": [
       {
         "section": "1",
@@ -35,6 +36,7 @@
     "chapter_no": "2",
     "chapter_title": "General Explanations",
     "section_from_to": "6-52A",
+    "language": 1,
     "sections": [
       {
         "section": "6",
@@ -287,6 +289,7 @@
     "chapter_no": "3",
     "chapter_title": "Punishments",
     "section_from_to": "53-75",
+    "language": 1,
     "sections": [
       {
         "section": "53",
@@ -419,6 +422,7 @@
     "chapter_no": "4",
     "chapter_title": "General exceptions",
     "section_from_to": "76-106",
+    "language": 1,
     "sections": [
       {
         "section": "76",
@@ -581,6 +585,7 @@
     "chapter_no": "5",
     "chapter_title": "Abetment",
     "section_from_to": "107-120",
+    "language": 1,
     "sections": [
       {
         "section": "107",
@@ -660,9 +665,10 @@
     ]
   },
   {
-    "chapter_no": "5(A)",
+    "chapter_no": "5A",
     "chapter_title": "Criminal conspiracy",
     "section_from_to": "120A-120B",
+    "language": 1,
     "sections": [
       {
         "section": "120A",
@@ -680,6 +686,7 @@
     "chapter_no": "6",
     "chapter_title": "Offences against the state",
     "section_from_to": "121-130",
+    "language": 1,
     "sections": [
       {
         "section": "121",
@@ -747,6 +754,7 @@
     "chapter_no": "7",
     "chapter_title": "Offences relating to the army, navy and air force",
     "section_from_to": "131-140",
+    "language": 1,
     "sections": [
       {
         "section": "131",
@@ -809,6 +817,7 @@
     "chapter_no": "8",
     "chapter_title": "Offences against the public tranquillity",
     "section_from_to": "141-160",
+    "language": 1,
     "sections": [
       {
         "section": "141",
@@ -931,6 +940,7 @@
     "chapter_no": "9",
     "chapter_title": "Offences by or relating to public servants",
     "section_from_to": "161-171",
+    "language": 1,
     "sections": [
       {
         "section": "161-165A",
@@ -983,6 +993,7 @@
     "chapter_no": "9A",
     "chapter_title": "Offences relating to elections",
     "section_from_to": "171A-171I",
+    "language": 1,
     "sections": [
       {
         "section": "171A",
@@ -1035,6 +1046,7 @@
     "chapter_no": "10",
     "chapter_title": "Contempt's the lawful authority public servants",
     "section_from_to": "172-190",
+    "language": 1,
     "sections": [
       {
         "section": "172",
@@ -1142,6 +1154,7 @@
     "chapter_no": "11",
     "chapter_title": "False evidence and offences against public justice",
     "section_from_to": "191-229A",
+    "language": 1,
     "sections": [
       {
         "section": "191",
@@ -1379,6 +1392,7 @@
     "chapter_no": "12",
     "chapter_title": "Offences relating to coin and government stamps",
     "section_from_to": "230-263A",
+    "language": 1,
     "sections": [
       {
         "section": "230",
@@ -1561,6 +1575,7 @@
     "chapter_no": "13",
     "chapter_title": "Offences relating to weights and measures",
     "section_from_to": "264-267",
+    "language": 1,
     "sections": [
       {
         "section": "264",
@@ -1588,6 +1603,7 @@
     "chapter_no": "14",
     "chapter_title": "Offences affecting the public health, safety, convenience, decency and morals",
     "section_from_to": "268-294A",
+    "language": 1,
     "sections": [
       {
         "section": "268",
@@ -1735,6 +1751,7 @@
     "chapter_no": "15",
     "chapter_title": "Offences relating to religion",
     "section_from_to": "295-298",
+    "language": 1,
     "sections": [
       {
         "section": "295",
@@ -1767,6 +1784,7 @@
     "chapter_no": "16",
     "chapter_title": "Offences affecting the human body",
     "section_from_to": "299-377",
+    "language": 1,
     "sections": [
       {
         "section": "299",
@@ -2274,6 +2292,7 @@
     "chapter_no": "17",
     "chapter_title": "Offences against property theft",
     "section_from_to": "378-462",
+    "language": 1,
     "sections": [
       {
         "section": "378",
@@ -2706,6 +2725,7 @@
     "chapter_no": "18",
     "chapter_title": "Offences relating to documents and to property marks",
     "section_from_to": "463-489E",
+    "language": 1,
     "sections": [
       {
         "section": "463",
@@ -2878,6 +2898,7 @@
     "chapter_no": "19",
     "chapter_title": "The criminal breach contracts service",
     "section_from_to": "490-492",
+    "language": 1,
     "sections": [
       {
         "section": "490",
@@ -2900,6 +2921,7 @@
     "chapter_no": "20",
     "chapter_title": "Offences relating to marriage",
     "section_from_to": "493-498A",
+    "language": 1,
     "sections": [
       {
         "section": "493",
@@ -2937,6 +2959,7 @@
     "chapter_no": "20A",
     "chapter_title": "Cruelty by husband or relatives husband",
     "section_from_to": "20A",
+    "language": 1,
     "sections": [
       {
         "section": "498A",
@@ -2949,6 +2972,7 @@
     "chapter_no": "21",
     "chapter_title": "Defamation",
     "section_from_to": "499-502",
+    "language": 1,
     "sections": [
       {
         "section": "499",
@@ -2976,6 +3000,7 @@
     "chapter_no": "22",
     "chapter_title": "Criminal intimidation, insult and annoyance",
     "section_from_to": "503-510",
+    "language": 1,
     "sections": [
       {
         "section": "503",
@@ -3023,6 +3048,7 @@
     "chapter_no": "23",
     "chapter_title": "Attempts commit offences",
     "section_from_to": "511",
+    "language": 1,
     "sections": [
       {
         "section": "511",
