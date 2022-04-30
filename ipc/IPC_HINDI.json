@@ -1,5 +1,6 @@
 [
   {
+    "chapter_id": 27,
     "chapter_no": "1",
     "chapter_title": "उद्देशिका",
     "section_from_to": "1-5",
@@ -33,6 +34,7 @@
     ]
   },
   {
+    "chapter_id": 28,
     "chapter_no": "2",
     "chapter_title": "साधारण स्पष्टीकरण",
     "section_from_to": "6-52A",
@@ -286,6 +288,7 @@
     ]
   },
   {
+    "chapter_id": 29,
     "chapter_no": "3",
     "chapter_title": "दण्डों के विषय में",
     "section_from_to": "53-75",
@@ -419,6 +422,7 @@
     ]
   },
   {
+    "chapter_id": 30,
     "chapter_no": "4",
     "chapter_title": "साधारण अपवाद",
     "section_from_to": "76-106",
@@ -582,6 +586,7 @@
     ]
   },
   {
+    "chapter_id": 31,
     "chapter_no": "5",
     "chapter_title": "दुष्प्रेरण के विषय में",
     "section_from_to": "107-120",
@@ -665,6 +670,7 @@
     ]
   },
   {
+    "chapter_id": 32,
     "chapter_no": "5A",
     "chapter_title": "आपराधिक षडयंत्र",
     "section_from_to": "120A-120B",
@@ -683,6 +689,7 @@
     ]
   },
   {
+    "chapter_id": 33,
     "chapter_no": "6",
     "chapter_title": "राज्य के विरूद्ध अपराधें के विषय में",
     "section_from_to": "121-130",
@@ -751,6 +758,7 @@
     ]
   },
   {
+    "chapter_id": 34,
     "chapter_no": "7",
     "chapter_title": "सेना, नौसेना और वायुसेना से सम्बन्धित अपराधें के विषय में",
     "section_from_to": "131-140",
@@ -814,6 +822,7 @@
     ]
   },
   {
+    "chapter_id": 35,
     "chapter_no": "8",
     "chapter_title": "लोक प्रशांति के विरुद्ध अपराधों के विषय मे",
     "section_from_to": "141-160",
@@ -937,6 +946,7 @@
     ]
   },
   {
+    "chapter_id": 36,
     "chapter_no": "9",
     "chapter_title": "लोक सेवकों द्वारा या उनसे संबंधित अपराधों के विषय में",
     "section_from_to": "161-171",
@@ -990,6 +1000,7 @@
     ]
   },
   {
+    "chapter_id": 37,
     "chapter_no": "9A",
     "chapter_title": "निर्वाचन संबंधी अपराधों के विषय में",
     "section_from_to": "171A-171I",
@@ -1043,6 +1054,7 @@
     ]
   },
   {
+    "chapter_id": 38,
     "chapter_no": "10",
     "chapter_title": "लोक सेवकों के विधिपूर्ण प्राधिकार के अवमान के विषय में",
     "section_from_to": "172-190",
@@ -1151,6 +1163,7 @@
     ]
   },
   {
+    "chapter_id": 39,
     "chapter_no": "11",
     "chapter_title": "मिथ्या साक्ष्य और लोक न्याय के विरुद्ध अपराधों के विषय में",
     "section_from_to": "191-229A",
@@ -1389,6 +1402,7 @@
     ]
   },
   {
+    "chapter_id": 40,
     "chapter_no": "12",
     "chapter_title": "भारतीय सिक्का और भारत सरकार के प्राधिकार द्वारा स्टाम्पित के विषय में",
     "section_from_to": "230-263A",
@@ -1572,6 +1586,7 @@
     ]
   },
   {
+    "chapter_id": 41,
     "chapter_no": "13",
     "chapter_title": "बाटों और मापों से संबंधित अपराधों के विषय में",
     "section_from_to": "264-267",
@@ -1600,6 +1615,7 @@
     ]
   },
   {
+    "chapter_id": 42,
     "chapter_no": "14",
     "chapter_title": "लोक स्वास्थ्य, क्षेम, सुविधा, शिष्टता और सदाचार पर प्रभाव डालने वाले अपराधों के विषय में",
     "section_from_to": "268-294A",
@@ -1748,6 +1764,7 @@
     ]
   },
   {
+    "chapter_id": 43,
     "chapter_no": "15",
     "chapter_title": "धर्म से संबंधित अपराधों के विषय में",
     "section_from_to": "295-298",
@@ -1781,6 +1798,7 @@
     ]
   },
   {
+    "chapter_id": 44,
     "chapter_no": "16",
     "chapter_title": "मानव शरीर पर प्रभाव डालने वाले अपराधों के विषय में",
     "section_from_to": "299-377",
@@ -2289,6 +2307,7 @@
     ]
   },
   {
+    "chapter_id": 45,
     "chapter_no": "17",
     "chapter_title": "सम्पत्ति के विरुद्ध अपराधों के विषय में चोरी के विषय में",
     "section_from_to": "378-462",
@@ -2722,6 +2741,7 @@
     ]
   },
   {
+    "chapter_id": 46,
     "chapter_no": "18",
     "chapter_title": "दस्तावेजों और संपत्ति चिह्नों संबंधी अपराधों के विषय में",
     "section_from_to": "463-489E",
@@ -2895,6 +2915,7 @@
     ]
   },
   {
+    "chapter_id": 47,
     "chapter_no": "19",
     "chapter_title": "सेवा संविदाओं के अपराधिक भंग के विषय में",
     "section_from_to": "490-492",
@@ -2918,6 +2939,7 @@
     ]
   },
   {
+    "chapter_id": 48,
     "chapter_no": "20",
     "chapter_title": "विवाह सम्बन्धी अपराधों के विषय में",
     "section_from_to": "493-498A",
@@ -2956,6 +2978,7 @@
     ]
   },
   {
+    "chapter_id": 49,
     "chapter_no": "20A",
     "chapter_title": "पति या पति के नातेदारों द्वारा क्रूरता के विषय में",
     "section_from_to": "20A",
@@ -2969,6 +2992,7 @@
     ]
   },
   {
+    "chapter_id": 50,
     "chapter_no": "21",
     "chapter_title": "मानहानि के विषय में",
     "section_from_to": "499-502",
@@ -2997,6 +3021,7 @@
     ]
   },
   {
+    "chapter_id": 51,
     "chapter_no": "22",
     "chapter_title": "आपराधिक अभित्रास, अपमान और क्षोभ के विषय में",
     "section_from_to": "503-510",
@@ -3045,6 +3070,7 @@
     ]
   },
   {
+    "chapter_id": 52,
     "chapter_no": "23",
     "chapter_title": "अपराधों को करने के प्रयत्नों के विषय में",
     "section_from_to": "511",
